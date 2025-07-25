@@ -2,7 +2,7 @@ backend:
   name: github
   repo: <USER>/<REPO>
   branch: main
-  base_url: https://decap-oauth.acronomi65.workers.dev
+  base_url: https://rytp-tv.github.io/blog
   auth_endpoint: /auth
 
 media_folder: "assets/images"
