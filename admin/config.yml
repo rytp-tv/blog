@@ -2,8 +2,8 @@ backend:
   name: github
   repo: <USER>/<REPO>
   branch: main
-  base_url: https://decap-oauth.acronomi65.workers.dev/
-  auth_endpoint: /auth
+  base_url: https://decap-oauth.acronomi65.workers.dev
+  auth_endpoint: /
 
 media_folder: "assets/images"
 public_folder: "/assets/images"
