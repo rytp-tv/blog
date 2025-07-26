@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rytp-tv.github.io/blog/sitemap.xml
